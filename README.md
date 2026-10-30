@@ -1,3 +1,7 @@
+> **TUA-Bench cost-aware fork (NTU PE6203 Project 5).** Branch `tua-harness` adds five switchable harness
+> improvements for TUA-Bench, evaluated through Harbor. All switches off == upstream v2.4.6.
+> Runbook: [`tua/README.md`](tua/README.md) · Handover notes: [`tua/HANDOVER.md`](tua/HANDOVER.md) · Proposal: [`tua/PROPOSAL.md`](tua/PROPOSAL.md)
+
 <div align="center">
 <a href="https://mini-swe-agent.com/latest/"><img src="https://github.com/SWE-agent/mini-swe-agent/raw/main/docs/assets/mini-swe-agent-banner.svg" alt="mini-swe-agent banner" style="height: 7em"/></a>
 </div>
