@@ -1,0 +1,9 @@
+{
+ "source": "OpenRouter list prices (https://openrouter.ai/api/v1/models and /endpoints), snapshot 2026-10-30, provider pinned as noted",
+ "unit": "USD per 1,000,000 tokens",
+ "models": {
+  "qwen/qwen3.7-flash": {"provider": "Alibaba", "input": 0.03, "output": 0.13, "cache_read": 0.006},
+  "deepseek/deepseek-v4.1-flash-1017": {"provider": "DeepSeek", "input": 0.15, "output": 0.60, "cache_read": 0.003},
+  "anthropic/claude-haiku-5.5": {"provider": "Anthropic", "input": 0.10, "output": 0.50, "cache_read": 0.01, "cache_write": 0.125}
+ }
+}

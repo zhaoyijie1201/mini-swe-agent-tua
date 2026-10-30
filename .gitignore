@@ -186,3 +186,7 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+
+# TUA harness experiment artifacts
+tua/dist/
+jobs/
